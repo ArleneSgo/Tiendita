@@ -11,8 +11,11 @@ namespace VISTA
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            //Cambio arriba 2
+<<<<<<< HEAD
             //HolaMundo 1
+=======
+            //Cambio arriba 1
+>>>>>>> 9e48e43ef58389e9f6cd7335641fd789acf0dde6
             //Cambio abajo
         }
     }
